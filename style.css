@@ -14,11 +14,6 @@ a.navbar-brand img {
   margin-right: 8px;
 }
 
-.carousel-inner {
-  margin-top: 120px;
-}
-
-
 .row {
   border: 2px solid white;
   background-color: rgba(184, 182, 182, 0.849);
@@ -89,7 +84,6 @@ img {
       font-size: 50px;
     }
   }
-  
   @media (min-width: 62em) {
     .featurette-heading {
       margin-top: 7rem;
